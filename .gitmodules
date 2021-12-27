@@ -1,6 +1,0 @@
-[submodule "manual-list-circular-progress"]
-	path = manual-list-circular-progress
-	url = ./manual-list-circular-progress
-[submodule "post-list"]
-	path = post-list
-	url = ./post-list
