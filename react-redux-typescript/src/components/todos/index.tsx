@@ -29,7 +29,7 @@ const Todos: React.FC = () => {
       </form>
 
       <ul>
-        {todos.map((item) => (
+        {todos.map((item: ITodo) => (
           <li key={item.id}>{item.value}</li>
         ))}
       </ul>
